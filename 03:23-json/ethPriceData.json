@@ -1,0 +1,467 @@
+[
+    {
+        "Date(UTC)": "3/13/20",
+        "timestamp": 1584057600,
+        "price": 135.44
+    },
+    {
+        "Date(UTC)": "3/23/20",
+        "timestamp": 1584921600,
+        "price": 136.74
+    },
+    {
+        "Date(UTC)": "4/2/20",
+        "timestamp": 1585785600,
+        "price": 141.59
+    },
+    {
+        "Date(UTC)": "4/12/20",
+        "timestamp": 1586649600,
+        "price": 158.75
+    },
+    {
+        "Date(UTC)": "4/22/20",
+        "timestamp": 1587513600,
+        "price": 183.04
+    },
+    {
+        "Date(UTC)": "5/2/20",
+        "timestamp": 1588377600,
+        "price": 214.15
+    },
+    {
+        "Date(UTC)": "5/12/20",
+        "timestamp": 1589241600,
+        "price": 189.9
+    },
+    {
+        "Date(UTC)": "5/22/20",
+        "timestamp": 1590105600,
+        "price": 207.28
+    },
+    {
+        "Date(UTC)": "6/1/20",
+        "timestamp": 1590969600,
+        "price": 248.21
+    },
+    {
+        "Date(UTC)": "6/11/20",
+        "timestamp": 1591833600,
+        "price": 230.21
+    },
+    {
+        "Date(UTC)": "6/21/20",
+        "timestamp": 1592697600,
+        "price": 227.83
+    },
+    {
+        "Date(UTC)": "7/1/20",
+        "timestamp": 1593561600,
+        "price": 231.05
+    },
+    {
+        "Date(UTC)": "7/11/20",
+        "timestamp": 1594425600,
+        "price": 239.25
+    },
+    {
+        "Date(UTC)": "7/21/20",
+        "timestamp": 1595289600,
+        "price": 245.87
+    },
+    {
+        "Date(UTC)": "7/31/20",
+        "timestamp": 1596153600,
+        "price": 346.81
+    },
+    {
+        "Date(UTC)": "8/10/20",
+        "timestamp": 1597017600,
+        "price": 395.84
+    },
+    {
+        "Date(UTC)": "8/20/20",
+        "timestamp": 1597881600,
+        "price": 416.04
+    },
+    {
+        "Date(UTC)": "8/30/20",
+        "timestamp": 1598745600,
+        "price": 429.04
+    },
+    {
+        "Date(UTC)": "9/9/20",
+        "timestamp": 1599609600,
+        "price": 351.15
+    },
+    {
+        "Date(UTC)": "9/19/20",
+        "timestamp": 1600473600,
+        "price": 385.36
+    },
+    {
+        "Date(UTC)": "9/29/20",
+        "timestamp": 1601337600,
+        "price": 359.92
+    },
+    {
+        "Date(UTC)": "10/9/20",
+        "timestamp": 1602201600,
+        "price": 365.41
+    },
+    {
+        "Date(UTC)": "10/19/20",
+        "timestamp": 1603065600,
+        "price": 379.41
+    },
+    {
+        "Date(UTC)": "10/29/20",
+        "timestamp": 1603929600,
+        "price": 387.54
+    },
+    {
+        "Date(UTC)": "11/8/20",
+        "timestamp": 1604793600,
+        "price": 454.74
+    },
+    {
+        "Date(UTC)": "11/18/20",
+        "timestamp": 1605657600,
+        "price": 478.76
+    },
+    {
+        "Date(UTC)": "11/28/20",
+        "timestamp": 1606521600,
+        "price": 537.99
+    },
+    {
+        "Date(UTC)": "12/8/20",
+        "timestamp": 1607385600,
+        "price": 554.82
+    },
+    {
+        "Date(UTC)": "12/18/20",
+        "timestamp": 1608249600,
+        "price": 654.55
+    },
+    {
+        "Date(UTC)": "12/28/20",
+        "timestamp": 1609113600,
+        "price": 729.59
+    },
+    {
+        "Date(UTC)": "1/7/21",
+        "timestamp": 1609977600,
+        "price": 1225.5
+    },
+    {
+        "Date(UTC)": "1/17/21",
+        "timestamp": 1610841600,
+        "price": 1233.73
+    },
+    {
+        "Date(UTC)": "1/27/21",
+        "timestamp": 1611705600,
+        "price": 1241.51
+    },
+    {
+        "Date(UTC)": "2/6/21",
+        "timestamp": 1612569600,
+        "price": 1679.14
+    },
+    {
+        "Date(UTC)": "2/16/21",
+        "timestamp": 1613433600,
+        "price": 1782.83
+    },
+    {
+        "Date(UTC)": "2/26/21",
+        "timestamp": 1614297600,
+        "price": 1446.1
+    },
+    {
+        "Date(UTC)": "3/8/21",
+        "timestamp": 1615161600,
+        "price": 1834.48
+    },
+    {
+        "Date(UTC)": "3/18/21",
+        "timestamp": 1616025600,
+        "price": 1776.16
+    },
+    {
+        "Date(UTC)": "3/28/21",
+        "timestamp": 1616889600,
+        "price": 1686.74
+    },
+    {
+        "Date(UTC)": "4/7/21",
+        "timestamp": 1617753600,
+        "price": 1964.18
+    },
+    {
+        "Date(UTC)": "4/17/21",
+        "timestamp": 1618617600,
+        "price": 2318.01
+    },
+    {
+        "Date(UTC)": "4/27/21",
+        "timestamp": 1619481600,
+        "price": 2667.93
+    },
+    {
+        "Date(UTC)": "5/7/21",
+        "timestamp": 1620345600,
+        "price": 3483.96
+    },
+    {
+        "Date(UTC)": "5/17/21",
+        "timestamp": 1621209600,
+        "price": 3280.73
+    },
+    {
+        "Date(UTC)": "5/27/21",
+        "timestamp": 1622073600,
+        "price": 2742.48
+    },
+    {
+        "Date(UTC)": "6/6/21",
+        "timestamp": 1622937600,
+        "price": 2710.99
+    },
+    {
+        "Date(UTC)": "6/16/21",
+        "timestamp": 1623801600,
+        "price": 2367.7
+    },
+    {
+        "Date(UTC)": "6/26/21",
+        "timestamp": 1624665600,
+        "price": 1830.94
+    },
+    {
+        "Date(UTC)": "7/6/21",
+        "timestamp": 1625529600,
+        "price": 2322.63
+    },
+    {
+        "Date(UTC)": "7/16/21",
+        "timestamp": 1626393600,
+        "price": 1877.05
+    },
+    {
+        "Date(UTC)": "7/26/21",
+        "timestamp": 1627257600,
+        "price": 2228.67
+    },
+    {
+        "Date(UTC)": "8/5/21",
+        "timestamp": 1628121600,
+        "price": 2829.23
+    },
+    {
+        "Date(UTC)": "8/15/21",
+        "timestamp": 1628985600,
+        "price": 3311.12
+    },
+    {
+        "Date(UTC)": "8/25/21",
+        "timestamp": 1629849600,
+        "price": 3228.86
+    },
+    {
+        "Date(UTC)": "9/4/21",
+        "timestamp": 1630713600,
+        "price": 3887.01
+    },
+    {
+        "Date(UTC)": "9/14/21",
+        "timestamp": 1631577600,
+        "price": 3436.05
+    },
+    {
+        "Date(UTC)": "9/24/21",
+        "timestamp": 1632441600,
+        "price": 2930.86
+    },
+    {
+        "Date(UTC)": "10/4/21",
+        "timestamp": 1633305600,
+        "price": 3384.5
+    },
+    {
+        "Date(UTC)": "10/14/21",
+        "timestamp": 1634169600,
+        "price": 3791.23
+    },
+    {
+        "Date(UTC)": "10/24/21",
+        "timestamp": 1635033600,
+        "price": 4082.08
+    },
+    {
+        "Date(UTC)": "11/3/21",
+        "timestamp": 1635897600,
+        "price": 4604.4
+    },
+    {
+        "Date(UTC)": "11/13/21",
+        "timestamp": 1636761600,
+        "price": 4645.64
+    },
+    {
+        "Date(UTC)": "11/23/21",
+        "timestamp": 1637625600,
+        "price": 4341.17
+    },
+    {
+        "Date(UTC)": "12/3/21",
+        "timestamp": 1638489600,
+        "price": 4219.32
+    },
+    {
+        "Date(UTC)": "12/13/21",
+        "timestamp": 1639353600,
+        "price": 3785.08
+    },
+    {
+        "Date(UTC)": "12/23/21",
+        "timestamp": 1640217600,
+        "price": 4112.35
+    },
+    {
+        "Date(UTC)": "1/2/22",
+        "timestamp": 1641081600,
+        "price": 3830.92
+    },
+    {
+        "Date(UTC)": "1/12/22",
+        "timestamp": 1641945600,
+        "price": 3373.03
+    },
+    {
+        "Date(UTC)": "1/22/22",
+        "timestamp": 1642809600,
+        "price": 2412.23
+    },
+    {
+        "Date(UTC)": "2/1/22",
+        "timestamp": 1643673600,
+        "price": 2790.15
+    },
+    {
+        "Date(UTC)": "2/11/22",
+        "timestamp": 1644537600,
+        "price": 2928.93
+    },
+    {
+        "Date(UTC)": "2/21/22",
+        "timestamp": 1645401600,
+        "price": 2570.15
+    },
+    {
+        "Date(UTC)": "3/3/22",
+        "timestamp": 1646265600,
+        "price": 2833.71
+    },
+    {
+        "Date(UTC)": "3/13/22",
+        "timestamp": 1647129600,
+        "price": 2516.83
+    },
+    {
+        "Date(UTC)": "3/23/22",
+        "timestamp": 1647993600,
+        "price": 3032.98
+    },
+    {
+        "Date(UTC)": "4/2/22",
+        "timestamp": 1648857600,
+        "price": 3444.68
+    },
+    {
+        "Date(UTC)": "4/12/22",
+        "timestamp": 1649721600,
+        "price": 3028.77
+    },
+    {
+        "Date(UTC)": "4/22/22",
+        "timestamp": 1650585600,
+        "price": 2963.17
+    },
+    {
+        "Date(UTC)": "5/2/22",
+        "timestamp": 1651449600,
+        "price": 2856.12
+    },
+    {
+        "Date(UTC)": "5/12/22",
+        "timestamp": 1652313600,
+        "price": 1952.81
+    },
+    {
+        "Date(UTC)": "5/22/22",
+        "timestamp": 1653177600,
+        "price": 2041.08
+    },
+    {
+        "Date(UTC)": "6/1/22",
+        "timestamp": 1654041600,
+        "price": 1817.42
+    },
+    {
+        "Date(UTC)": "6/11/22",
+        "timestamp": 1654905600,
+        "price": 1530.28
+    },
+    {
+        "Date(UTC)": "6/21/22",
+        "timestamp": 1655769600,
+        "price": 1124.71
+    },
+    {
+        "Date(UTC)": "7/1/22",
+        "timestamp": 1656633600,
+        "price": 1058.01
+    },
+    {
+        "Date(UTC)": "7/11/22",
+        "timestamp": 1657497600,
+        "price": 1095.67
+    },
+    {
+        "Date(UTC)": "7/21/22",
+        "timestamp": 1658361600,
+        "price": 1575.68
+    },
+    {
+        "Date(UTC)": "7/31/22",
+        "timestamp": 1659225600,
+        "price": 1679.55
+    },
+    {
+        "Date(UTC)": "8/10/22",
+        "timestamp": 1660089600,
+        "price": 1854.05
+    },
+    {
+        "Date(UTC)": "8/20/22",
+        "timestamp": 1660953600,
+        "price": 1575.73
+    },
+    {
+        "Date(UTC)": "8/30/22",
+        "timestamp": 1661817600,
+        "price": 1524.62
+    },
+    {
+        "Date(UTC)": "9/9/22",
+        "timestamp": 1662681600,
+        "price": 1719.35
+    },
+    {
+        "Date(UTC)": "9/19/22",
+        "timestamp": 1663545600,
+        "price": 1376.21
+    }
+]
